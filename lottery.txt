@@ -1,0 +1,11 @@
+node deploy.js
+
+npm install create-react-app /yarn global add create-react app
+
+create-react-app lottery-react
+
+npm run start
+
+yarn add web3@1.0.0-beta.26 / npm install --save web3@1.0.0-beta.26 
+
+babel code and interference
